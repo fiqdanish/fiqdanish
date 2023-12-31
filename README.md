@@ -22,7 +22,7 @@ I've been learning about Computer Science for almost 2 years, I started to code 
 <h2>Projects</h2>
 
 - <b>Industry Talk and Industry Visit</b>
-  - [Career Development Poster](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Career Development Poster](https://github.com/fiqdanish/CareerDevelopment)
   - [Petronas and Huawei](https://github.com/joshmadakor1/Algorithms-Practice)
   - [UTM Digital](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PC Assemble (Lab)</b>
