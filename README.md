@@ -23,12 +23,12 @@ I've been learning about Computer Science for almost 2 years, I started to code 
 
 - <b>Industry Talk and Industry Visit</b>
   - [Career Development Poster](https://github.com/fiqdanish/CareerDevelopment)
-  - [Petronas and Huawei](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [UTM Digital](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Petronas and Huawei]()
+  - [UTM Digital]()
 - <b>PC Assemble (Lab)</b>
-  - [Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Lab]()
 - <b>Design Thinking (Low Fidelity Prototype)</b>
-  - [Database Systems](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Database Systems]()
 
  
 ### Socials
