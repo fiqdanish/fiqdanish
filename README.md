@@ -8,7 +8,7 @@ I've been learning about Computer Science for almost 2 years, I started to code 
 
 * 🌍  I'm based in Penang, Malaysia
 * ✉️  You can contact me at [afiq.dnish121@gmail.com](mailto:afiq.dnish121@gmail.com)
-* 🧠  I'm learning Technology & Information Systems
+* 🧠  I'm learning Data Engineering
 * 🤝  I'm open to collaborating on simple projects for now
 * ⚡  I love cat
 
@@ -19,16 +19,12 @@ I've been learning about Computer Science for almost 2 years, I started to code 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 </p>
 
-<h2>Projects</h2>
+<h2>Year 1 Courses</h2>
 
-- <b>Industry Talk and Industry Visit</b>
-  - [Career Development Poster](https://github.com/fiqdanish/CareerDevelopment)
-  - [Petronas and Huawei]()
-  - [UTM Digital]()
-- <b>PC Assemble (Lab)</b>
-  - [Lab]()
-- <b>Design Thinking (Low Fidelity Prototype)</b>
-  - [Database Systems]()
+- <b>[Technology & Information Systems](https://github.com/fiqdanish/CareerDevelopment)</b>
+- <b>[Programming Technique 1](https://github.com/fiqdanish/CareerDevelopment)</b>
+- <b>[Discrete Structures](https://github.com/fiqdanish/CareerDevelopment)</b>
+- <b>[Digital Logic](https://github.com/fiqdanish/CareerDevelopment)</b>
 
  
 ### Socials
