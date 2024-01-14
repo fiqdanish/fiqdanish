@@ -23,8 +23,8 @@ I've been learning about Computer Science for almost 2 years, I started to code 
 
 - <b>[Technology & Information Systems](https://github.com/fiqdanish/TechnologyInformationSystems)</b>
 - <b>[Programming Technique 1](https://github.com/fiqdanish/ProgrammingTechnique1)</b>
-- <b>[Discrete Structures](https://github.com/fiqdanish/CareerDevelopment)</b>
-- <b>[Digital Logic](https://github.com/fiqdanish/CareerDevelopment)</b>
+- <b>[Discrete Structures](https://github.com/fiqdanish/DiscreteStructure)</b>
+- <b>[Digital Logic](https://github.com/fiqdanish/DigitalLogic)</b>
 
  
 ### Socials
