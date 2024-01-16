@@ -8,7 +8,6 @@ I've been learning about Computer Science for almost 2 years, I started to code 
 
 * 🌍  I'm based in Penang, Malaysia
 * ✉️  You can contact me at [afiq.dnish121@gmail.com](mailto:afiq.dnish121@gmail.com)
-* 🧠  I'm learning Data Engineering
 * 🤝  I'm open to collaborating on simple projects for now
 * ⚡  I love cat
 
