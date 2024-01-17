@@ -15,7 +15,7 @@ I've been learning about Computer Science for almost 2 years, I started to code 
 
 * Mara Junior Science College (MRSM) Pendang (2017-2022)
 * Foundation of Engineering in UiTM Dengkil (2022-2023)
-* Bachelor Degree of Computer Science (Data Engineering) (2023-Now)
+* Bachelor Degree of Computer Science (Data Engineering) in Universiti Teknologi Malaysia (2023-Now)
 
 ### <h2> 📑 Certificates </h2>
 
