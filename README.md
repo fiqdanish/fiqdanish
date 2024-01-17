@@ -11,6 +11,12 @@ I've been learning about Computer Science for almost 2 years, I started to code 
 * 🤝  I'm open to collaborating on simple projects for now
 * ⚡  I love cat
 
+### <h2> 🎓 Education </h2>
+
+* Mara Junior Science College (MRSM) Pendang (2017-2022)
+* Foundation of Engineering in UiTM Dengkil (2022-2023)
+* Bachelor Degree of Computer Science (Data Engineering) (2023-Now)
+
 ### Skills
 
 
