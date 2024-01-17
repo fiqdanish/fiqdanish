@@ -17,6 +17,12 @@ I've been learning about Computer Science for almost 2 years, I started to code 
 * Foundation of Engineering in UiTM Dengkil (2022-2023)
 * Bachelor Degree of Computer Science (Data Engineering) (2023-Now)
 
+### <h2> 📑 Certificates </h2>
+
+- SPM 6A (2A+, 3A, 1A-, 2B+, 1B)
+- Foundation CGPA UiTM 3.91/CGPA UPU 4.00
+- MUET 4.5
+
 ### Skills
 
 
