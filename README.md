@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Afiq Danish
 ===================================================================================================================================
 
-Student of Data Engineering
----------------------------
-
 A third-year **Computer Science (Data Engineering)** student at **Universiti Teknologi Malaysia (UTM)** with strong interests in **data analytics and data engineering**. Possesses experience working with **Python, C++, PHP, SQL (MySQL), and MongoDB** through academic and personal projects. Skilled in **problem solving, data analysis, and building web applications**. Passionate about transforming raw data into meaningful insights and developing efficient systems that support **data-driven decision making**. Aspires to build a career as a **Data Engineer or Data Analyst**.
 
 * 🌍 I'm based in Penang, Malaysia
