@@ -4,13 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student of Data Engineering
 ---------------------------
 
-I've been learning about Computer Science for almost 2 years, I started to code back when I was studying in a Foundation of Engineering at UiTM Dengkil using C. Now, I am currently taking a Bachelor Degree of Data Engineering at University of Technology Malaysia (UTM) and learning about new programming techniques which is C++. I am passionate to master my skills in programming as well as database system in order to be an excellent Data Analyst/Scientist.
+A third-year **Computer Science (Data Engineering)** student at **Universiti Teknologi Malaysia (UTM)** with strong interests in **data analytics and data engineering**. Possesses experience working with **Python, C++, PHP, SQL (MySQL), and MongoDB** through academic and personal projects. Skilled in **problem solving, data analysis, and building web applications**. Passionate about transforming raw data into meaningful insights and developing efficient systems that support **data-driven decision making**. Aspires to build a career as a **Data Engineer or Data Analyst**.
 
-* 🌍  I'm based in Penang, Malaysia
-* ✉️  You can contact me at [afiq.dnish121@gmail.com](mailto:afiq.dnish121@gmail.com)
+* 🌍 I'm based in Penang, Malaysia
+* ✉️ You can contact me at [afiq.dnish121@gmail.com](mailto:afiq.dnish121@gmail.com)
 * 👨‍💻 All of my projects are available [here](https://fiqdanish.github.io/fiqdanish.githhub.io/)
-* 🤝  I'm open to collaborating on simple projects for now
-* ⚡  I love cat
 
 ### <h2> 🎓 Education </h2>
 
@@ -25,7 +23,6 @@ I've been learning about Computer Science for almost 2 years, I started to code 
 - MUET 4.5
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
