@@ -26,7 +26,7 @@ A third-year Computer Science (Data Engineering) student at Universiti Teknologi
 <a href="https://www.linkedin.com/in/afiq-danish-5754b429a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/afiq-danish-5754b429a/" height="30" width="40" /></a>
 </p>
 
-# 📊 GitHub Stats:
+<h3 align="left"> 📊 GitHub Stats </h3>
 ![](https://github-readme-stats.vercel.app/api?username=fiqdanish&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=fiqdanish&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqdanish&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
