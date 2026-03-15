@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afiq Danish</h1>
-<h3 align="center">A third-year Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM)** with strong interests in data analytics and data engineering. Possesses experience working with **Python, C++, PHP, SQL (MySQL), and MongoDB through academic and personal projects. Skilled in problem solving, data analysis, and building web applications. Passionate about transforming raw data into meaningful insights and developing efficient systems that support **data-driven decision making. Aspires to build a career as a Data Engineer or Data Analyst.</h3>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fiqdanish&" alt="fiqdanish" /></p>
+<h3 align="center">A third-year Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM) with strong interests in data analytics and data engineering. Possesses experience working with Python, C++, PHP, SQL (MySQL), and MongoDB through academic and personal projects. Skilled in problem solving, data analysis, and building web applications. Passionate about transforming raw data into meaningful insights and developing efficient systems that support **data-driven decision making. Aspires to build a career as a Data Engineer or Data Analyst.</h3>
 
 * 🌍 I'm based in Penang, Malaysia
 * ✉️ You can contact me at [afiq.dnish121@gmail.com](mailto:afiq.dnish121@gmail.com)
@@ -26,4 +24,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fiqdanish&" alt="fiqdanish" /></p>
 
