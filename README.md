@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Afiq Danish</h1>
+<h1>Hi 👋, I'm Afiq Danish</h1>
 
-<p align="center">
+<p>
 Final-year Computer Science (Data Engineering) student at Universiti Teknologi Malaysia (UTM).
 I turn messy, raw data into reliable systems and meaningful insights — across cloud pipelines,
 dimensional modeling, and high-performance data processing. Aspiring Data Engineer.
@@ -10,8 +10,8 @@ dimensional modeling, and high-performance data processing. Aspiring Data Engine
 
 - 🌍 Based in **Penang, Malaysia**
 - 🎓 B.Sc. Data Engineering @ UTM · CGPA **3.94**
-- 🌐 Portfolio: **[my-portfolio-url.vercel.app](https://your-vercel-url.vercel.app)**
-- ✉️ Reach me at **afiq.dnish121@gmail.com**
+- 🌐 Portfolio: **[my portfolio](https://afiq-portfolio.vercel.app/)**
+- ✉️ Reach me at **fiqdnsh@gmail.com**
 
 ---
 
