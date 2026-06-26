@@ -3,7 +3,7 @@ A third-year Computer Science (Data Engineering) student at Universiti Teknologi
 
 * 🌍 I'm based in Selanghor, Malaysia
 * ✉️ You can contact me at [fiqdnsh@gmail.com](mailto:fiqdnsh@gmail.com)
-* 👨‍💻 All of my projects are available [here](https://afiq-portfolio.vercel.app/)
+* 👨‍💻 All of my projects are available [here](https://fiqdanish.vercel.app/)
   
 ### <h2> 🎓 Education </h2>
 * Foundation of Engineering in UiTM Dengkil (2022-2023)
